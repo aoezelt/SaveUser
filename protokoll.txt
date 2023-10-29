@@ -1,0 +1,105 @@
+Protokoll xcopy 
+VON: C:\Daten\3dDruck 
+NACH: C:\Daten\Projekte\Ziel 
+Start Sicherung: 25.12.2022 16:20:07,43 
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge.zip
+C:\Daten\3dDruck\armas-playmobil20210311-6014-zoar00.zip
+C:\Daten\3dDruck\Bettrahmenverbindung.stl
+C:\Daten\3dDruck\Bettrost.stl
+C:\Daten\3dDruck\Bett_Einzel_Rahmen.stl
+C:\Daten\3dDruck\crate-for-playmobil-danger-explosives-lid20200513-2886-2jo2we(1).zip
+C:\Daten\3dDruck\Escudo PLaymobil.stl
+C:\Daten\3dDruck\Hacha Playmobil.stl
+C:\Daten\3dDruck\Leiter.stl
+C:\Daten\3dDruck\Matrazze.stl
+C:\Daten\3dDruck\Metralleta Playmobil.stl
+C:\Daten\3dDruck\MSMV2E3D_Bett_Einzel_Rahmen.gcode
+C:\Daten\3dDruck\MSMV2E3D_Escudo PLaymobil.gcode
+C:\Daten\3dDruck\MSMV2E3D_Playmo AX50 V2.gcode
+C:\Daten\3dDruck\MSMV2E3D_Playmobil_Cone.gcode
+C:\Daten\3dDruck\MSMV2E3D_Western-explosive-crate-0.3.gcode
+C:\Daten\3dDruck\pikachu_1gen_flowalistik.STL
+C:\Daten\3dDruck\Pin 2.stl
+C:\Daten\3dDruck\Piscine Playmobil v1.stl
+C:\Daten\3dDruck\Playmo AX50 V2.stl
+C:\Daten\3dDruck\Playmobil_Cone.stl
+C:\Daten\3dDruck\stuhlhauptteilnichtpassendegröße.stl
+C:\Daten\3dDruck\stuhlteilnichtpassendegröße.stl
+C:\Daten\3dDruck\Taserv2.stl
+C:\Daten\3dDruck\Tauchermaske 2.stl
+C:\Daten\3dDruck\Tauchermaske Pin 2.stl
+C:\Daten\3dDruck\Tauchermaske Pin 3.stl
+C:\Daten\3dDruck\Tauchermaske Pin.stl
+C:\Daten\3dDruck\Tauchermaske.stl
+C:\Daten\3dDruck\Terrific Krunk(1).stl
+C:\Daten\3dDruck\Terrific Krunk.stl
+C:\Daten\3dDruck\tischbeinnichtpassendegröße.stl
+C:\Daten\3dDruck\tischplattenichtpassendegröße.stl
+C:\Daten\3dDruck\tischstuhl.stl
+C:\Daten\3dDruck\Tunnelportal_2-gleisig_A38_112x90.3mf
+C:\Daten\3dDruck\V29.2_Whistle_V29.stl
+C:\Daten\3dDruck\Western-explosive-crate-0.3.stl
+C:\Daten\3dDruck\X2_Taser_Whole.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\LICENSE.txt
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\README.txt
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Bridge_Deck.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Concrete_Bridge_Approach_Pier.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Concrete_Bridge_Pier.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Copy_of_Wide_Bridge_Deck_1.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Girder_Bridge.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\N-Scale_Concrete_and_Steel_Truss_Bridge.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\N-Scale_Modular_Bridge_Approach_Pier.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\N-Scale_Modular_Bridge_Pier_Hollow.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\N-Scale_Modular_Concrete_and_Steel_Truss_Bridge.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\N-Scale_Modular_Wide_Truss_Bridge_Complete.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Narrow_Truss.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Raised_Truss.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\files\Wide_Bridge_Deck.stl
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\2019.10.08.19.22.13_-1.jpg
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Bridge_Deck.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Concrete_Bridge_Approach_Pier.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Concrete_Bridge_Pier.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Copy_of_Wide_Bridge_Deck_1.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Girder_Bridge.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\N-Scale_Concrete_and_Steel_Truss_Bridge.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\N-Scale_Modular_Bridge_Approach_Pier.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\N-Scale_Modular_Bridge_Pier_Hollow.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\N-Scale_Modular_Concrete_and_Steel_Truss_Bridge.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\N-Scale_Modular_Wide_Truss_Bridge_Complete.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Narrow_Truss.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Raised_Truss.png
+C:\Daten\3dDruck\3905004_N-Scale_Concrete_and_Steel_Truss_Bridge\images\Wide_Bridge_Deck.png
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\LICENSE.txt
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\README.txt
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\files\Full.stl
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\files\Girder_Bridge_40_feet-x2-HO_Scale.stl
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\files\HO_Bridge_Shoe_with_Supports.stl
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\files\Middle_Pier-HO_Scale.stl
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\files\side_pier-x2-HO_Scale.stl
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\images\Full.png
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\images\Girder_Bridge_40_feet-x2-HO_Scale.png
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\images\HO_Bridge_Shoe_with_Supports.png
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\images\Image34.jpg
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\images\Middle_Pier-HO_Scale.png
+C:\Daten\3dDruck\5256015_Girder_Bridge_with_Shoes_HO_scale\images\side_pier-x2-HO_Scale.png
+C:\Daten\3dDruck\gcode\MSMV2E3D_Bett_Einzel_Rahmen.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Escudo PLaymobil.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Fahrbahn.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Fahrbahn_Girder_Bridge_SpurN.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Playmo AX50 V2.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_stuhlteil1.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_stuhlteil2.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Tauchermaske Pin 2.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Tauchermaske Pin(2).gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Tauchermaske Pin.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Tauchermaske.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Terrific Krunk(1).gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Terrific Krunk.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_tischplatte.gcode
+C:\Daten\3dDruck\gcode\MSMV2E3D_Trmaske 2.gcode
+C:\Daten\3dDruck\gcode\Pin 2.gcode
+C:\Daten\3dDruck\gcode\Trmke Pin 2.gcode
+C:\Daten\3dDruck\Girder_Bridge_with_Shoes_N_scale\Fahrbahn_Girder_Bridge_SpurN.stl
+C:\Daten\3dDruck\mrhers2\x2-taser\X2_Taser_in_Halves.stl
+99 Datei(en) kopiert
+Ende Sicherung: 25.12.2022 16:20:08,63 
